@@ -1,5 +1,5 @@
 # Titanic_journey
-This is my first problem at Kaggle. I choosed the Titanic competition which is a good way to introduce feature engineering and ensemble modeling. Firstly, I will focus on the feature engineering. Last part concerns modeling and predicting the survival on the Titanic.
+This is my first problem at Kaggle. I chose the Titanic competition which is a good way to introduce feature engineering and ensemble modeling. Firstly, I will focus on the feature engineering. Last part concerns modeling and predicting the survival on the Titanic.
 
 This script follows three main parts:
 Feature analysis
